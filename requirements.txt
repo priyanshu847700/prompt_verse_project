@@ -1,0 +1,11 @@
+streamlit>=1.40,<2.0
+python-dotenv>=1.0
+pypdf>=5.0
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.2
+chromadb>=1.0
+langchain-groq>=0.3
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+pytest>=8.0
